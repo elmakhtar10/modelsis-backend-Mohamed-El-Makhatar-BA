@@ -1,5 +1,3 @@
-# modelsis-backend-Mohamed-El-Makhatar-BA
-
 # Test Technique : Gestion de Produits - Modelsis
 
 Ce projet consiste en la réalisation d'une API Backend pour la gestion de produits et de leurs types, réalisée dans le cadre d'un test technique pour **Modelsis**.
