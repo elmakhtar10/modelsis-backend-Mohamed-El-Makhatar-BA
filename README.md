@@ -1,9 +1,4 @@
 # modelsis-backend-Mohamed-El-Makhatar-BA
-Le README commence juste après le bloc de code avec les trois petits accents (```markdown) et se termine juste avant la fermeture de ce bloc.
-
-Voici le texte **exact** que tu dois copier. Commence la copie à partir de `# Test Technique` et arrête-toi après le dernier bloc de code (après `ddl-auto=update`).
-
----
 
 # Test Technique : Gestion de Produits - Modelsis
 
@@ -33,7 +28,7 @@ Le projet utilise **PostgreSQL**. Avant de lancer l'application, veuillez suivre
 
 1. **Cloner le dépôt :**
 ```bash
-git clone <https://github.com/elmakhtar10/modelsis-backend-Mohamed-El-Makhatar-BA>
+git clone https://github.com/elmakhtar10/modelsis-backend-Mohamed-El-Makhatar-BA
 cd modelsis-backend-Mohamed-El-Makhatar-BA
 
 ```
