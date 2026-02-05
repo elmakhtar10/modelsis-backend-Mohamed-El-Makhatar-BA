@@ -2,11 +2,11 @@
 
 Ce projet consiste en la réalisation d'une API Backend pour la gestion de produits et de leurs types, réalisée dans le cadre d'un test technique pour **Modelsis**.
 
-## 👤 Auteur
+##  Auteur
 
 **Mohamed El Makhatar BA**
 
-## 🚀 Technologies utilisées
+##  Technologies utilisées
 
 * **Java 21**
 * **Spring Boot 2.7.18**
@@ -15,14 +15,14 @@ Ce projet consiste en la réalisation d'une API Backend pour la gestion de produ
 * **Lombok**
 * **Maven**
 
-## ⚙️ Configuration de la Base de Données
+## Configuration de la Base de Données
 
 Le projet utilise **PostgreSQL**. Avant de lancer l'application, veuillez suivre ces étapes :
 
 1. Créer une base de données nommée `products` dans votre instance PostgreSQL.
 2. L'application est configurée pour utiliser des variables d'environnement afin de sécuriser les accès (conformément aux consignes). 
 
-## 🛠️ Installation et Lancement
+## Installation et Lancement
 
 1. **Cloner le dépôt :**
 ```bash
@@ -49,7 +49,7 @@ mvn spring-boot:run
 
 L'application sera accessible sur : `http://localhost:8080`
 
-## 📡 Endpoints de l'API
+## Endpoints de l'API
 
 ### 1. Types de Produits (`ProductType`)
 
@@ -78,7 +78,7 @@ L'application sera accessible sur : `http://localhost:8080`
 
 * **PUT** `/product` : Mettre à jour un produit existant (via l'ID fourni dans le JSON).
 
-## 📝 Choix Techniques
+## Choix Techniques
 
 * **Persistance** : Utilisation de Spring Data JPA .
 * **Sécurité** : Gestion des accès BDD via des placeholders Spring `${VAR}` pour éviter les accès en dur.
